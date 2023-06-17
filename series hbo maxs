@@ -1,5 +1,9 @@
 #EXTM3U
 #Temporada2
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 1
+https://ia802706.us.archive.org/10/items/fr3isends2/fr3isends1.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 2
+https://ia902603.us.archive.org/2/items/fr3isends2l/fr3isends2l.mp4
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 3
 https://ia902601.us.archive.org/15/items/fr3isends3/fr3isends3.mp4
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 4
@@ -9,9 +13,9 @@ https://pc-38.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 6
 https://ia802701.us.archive.org/23/items/fr3isends6/fr3isends6.mp4
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 7
-https://ia902707.us.archive.org/22/items/fr3isends7/fr3isends7.mp4
+https://ia902707.us.archive.org/11/items/fr3isends7_202306/fr3isends7.mp4
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 8
-https://ia902707.us.archive.org/22/items/fr3isends7/fr3isends8.mp4
+https://ia902707.us.archive.org/11/items/fr3isends7_202306/fr3isends8.mp4
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 9
 https://ia801600.us.archive.org/20/items/fr3isends9/fr3isends9.mp4
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 10
@@ -20,3 +24,27 @@ https://ia601600.us.archive.org/20/items/fr3isends9/fr3isends10.mp4
 https://ia902603.us.archive.org/5/items/fr3isends12/fr3isends11.mp4
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 12
 https://ia802700.us.archive.org/0/items/fr3isends12_202306/fr3isends12.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 13
+https://ia902707.us.archive.org/17/items/fr3isends13/fr3isends13.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 14
+https://ia902600.us.archive.org/12/items/fr3isends15/fr3isends14.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 15
+https://ia902600.us.archive.org/12/items/fr3isends15/fr3isends15.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 16
+https://ia902600.us.archive.org/12/items/fr3isends15/fr3isends16.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 17
+https://ia802709.us.archive.org/23/items/fr3isends17/fr3isends17.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 18
+https://ia802709.us.archive.org/23/items/fr3isends17/fr3isends18.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 19
+https://ia802709.us.archive.org/23/items/fr3isends17/fr3isends19.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 20
+https://ia902607.us.archive.org/21/items/fr3isends20/fr3isends20.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 21
+https://ia902707.us.archive.org/23/items/fr3isends21/fr3isends21.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 22
+https://ia902603.us.archive.org/1/items/fr3isends22_202306/fr3isends22.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 23
+https://ia802601.us.archive.org/5/items/fr3isends23/fr3isends23.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/friends.jpg" group-title="Temporada 2",Friends cap 24
+https://ia802708.us.archive.org/35/items/fr3isends24/fr3isends24.mp4
